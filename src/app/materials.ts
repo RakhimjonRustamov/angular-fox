@@ -10,4 +10,3 @@ function main() {
   console.log("git rebase --continue");
   return "Hello Rebase";
 }
-
