@@ -16,6 +16,9 @@ function rebaseFunction() {
     let str = 
     `
     This is an merge file for feaure branch
+
     `;
+
+    console.log("Second Commit");
     return str;
 }
