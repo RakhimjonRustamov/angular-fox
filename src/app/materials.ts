@@ -14,3 +14,11 @@ function main() {
 function mainmain() {
     return `Main branch issue`;
 }
+
+function rebaseFunction() {
+    let str = 
+    `
+    This is an merge file for feaure branch
+    `;
+    return str;
+}
