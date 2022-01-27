@@ -30,3 +30,13 @@ function rebaseFunction() {
     console.log("Second Commit");
     return str;
 }
+
+function featureBranchB() {
+  return 'B feature branch commit'
+}
+
+// f2
+function featureBranchBF2() {
+  return 'F2 B feature branch commit'
+}
+
