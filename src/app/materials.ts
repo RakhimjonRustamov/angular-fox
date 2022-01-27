@@ -14,3 +14,8 @@ function main() {
 function mainmain() {
     return `Main branch issue`;
 }
+
+// m3
+function MainCommitForFeatureBranchCommit() {
+  return 'This commit after f1 of feature b branch';
+}
