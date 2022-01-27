@@ -19,3 +19,14 @@ function mainmain() {
 function MainCommitForFeatureBranchCommit() {
   return 'This commit after f1 of feature b branch';
 }
+
+function rebaseFunction() {
+    let str = 
+    `
+    This is an merge file for feaure branch
+
+    `;
+
+    console.log("Second Commit");
+    return str;
+}
